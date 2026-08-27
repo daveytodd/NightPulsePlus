@@ -1,4 +1,5 @@
 import SwiftUI
+import UIKit
 
 // Add this view to Rest Right. Register nightpulse as a URL scheme in its Info.plist.
 struct NightPulseMigrationModal: View {
